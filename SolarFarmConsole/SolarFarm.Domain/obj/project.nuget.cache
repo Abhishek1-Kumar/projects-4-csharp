@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gOjmTd78hCc+8YXwL1APhBdpF1nE/n/7nF9p6LG1YwUZjVorME7yzHwp+wVJNO/22XJgY6sjVqEx6J/VY9lG7A==",
+  "success": true,
+  "projectFilePath": "D:\\Dev10Genesis\\C sharp assessments\\Assessment 1\\SolarFarmConsole\\SolarFarm.Domain\\SolarFarm.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}

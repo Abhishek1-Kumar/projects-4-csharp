@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2nS6ZxINGhB+wB7XyF4PnC5OtsDsodT06W5Upoe0yUaAExZp/hZ7d23ExnvbyS6u+SePMRnOCt77j1/ViFzQhA==",
+  "success": true,
+  "projectFilePath": "D:\\Dev10Genesis\\C sharp assessments\\Assessment 1\\SolarFarmConsole\\SolarFarm.Storage\\SolarFarm.Storage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
+    "C:\\Users\\abby_\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
